@@ -1,0 +1,26 @@
+#container {
+  align-content: center;
+}
+.ng-cloak,
+[ng-cloak] {
+  display: none !important;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+li {
+  list-style: none;
+}
+#nav > span.selected {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.completed {
+  text-decoration: line-through;
+}
+.smallText {
+  font-size: 75%;
+}
